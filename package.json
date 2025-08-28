@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "supabase": "^2.34.3"
+  },
+  "dependencies": {
+    "jwk-to-pem": "^2.0.7"
+  }
+}
